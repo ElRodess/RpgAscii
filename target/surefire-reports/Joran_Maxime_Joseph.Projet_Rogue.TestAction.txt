@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Joran_Maxime_Joseph.Projet_Rogue.TestAction
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.067 sec - in Joran_Maxime_Joseph.Projet_Rogue.TestAction
